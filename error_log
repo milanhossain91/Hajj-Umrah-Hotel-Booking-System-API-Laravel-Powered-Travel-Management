@@ -1,0 +1,98 @@
+[13-Mar-2025 16:16:50 Asia/Kolkata] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.31. in /home/softifly/inventorydemoapi.softifly.com/vendor/composer/platform_check.php on line 24
+[25-May-2025 10:53:45 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.32. in /home/scfnaogaon/api.scfnaogaon.org/vendor/composer/platform_check.php on line 24
+[24-Jul-2025 06:36:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:36:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:36:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:36:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:37:11 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:37:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:37:51 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:45 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:47 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:56 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:06 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:33 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 108
+[24-Jul-2025 06:39:39 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 108
+[14-Aug-2025 01:12:51 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:12:51 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:13:32 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:13:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:20 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:20 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:27 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:51 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:51 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:56 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:16:56 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:17:33 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:17:33 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:17:47 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:17:47 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:18:51 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:18:51 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:19:23 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:19:23 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:20:15 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:20:15 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:20:22 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:20:22 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:21:52 America/Boise] PHP Warning:  require(/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
+[14-Aug-2025 01:21:52 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/chaardik/ukhajj.chaardik.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/chaardik/ukhajj.chaardik.com/public/index.php:13
+Stack trace:
+#0 /home1/chaardik/ukhajj.chaardik.com/server.php(21): require_once()
+#1 {main}
+  thrown in /home1/chaardik/ukhajj.chaardik.com/public/index.php on line 13
